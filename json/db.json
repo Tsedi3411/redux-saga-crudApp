@@ -1,0 +1,15 @@
+{
+    "Songs":[
+        {
+            "id":"abcd",
+            "name":"Masinko",
+            "Artist":"Tedy Afro"
+        },
+        {
+            "id":"efgh",
+            "name":"Tzita",
+            "Artist":"Aster"
+        }
+
+    ]
+}
