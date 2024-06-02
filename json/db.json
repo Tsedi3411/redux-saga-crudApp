@@ -2,12 +2,12 @@
     "Songs":[
         {
             "id":"abcd",
-            "name":"Masinko",
+            "Title":"Masinko",
             "Artist":"Tedy Afro"
         },
         {
             "id":"efgh",
-            "name":"Tzita",
+            "Title":"Tzita",
             "Artist":"Aster"
         }
 
